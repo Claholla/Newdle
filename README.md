@@ -1,4 +1,4 @@
-<h1 align="center">BORN Project 3👋</h1>
+<h1 align="center">Newdle</h1>
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/arerickson28/breakoutRoomNomads" />
